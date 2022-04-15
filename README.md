@@ -5,9 +5,6 @@ Welcome To My Code!
     <a href="https://www.linkedin.com/in/erik-earl" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erikjearl&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <!--
 **erikjearl/erikjearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
