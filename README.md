@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/erikjearl" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/14120333/erik" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
     <a href="https://replit.com/@erikjearl" target="_blank"><img alt="Replit" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?logo=replit&logoColor=white"></a>
-    <a href="https://leetcode.com/erikjearl/: target=_blank"><img alt"LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06></a>
+    <a href="https://leetcode.com/erikjearl/: target=_blank"><img alt"LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
 </p>
 
 <!--
